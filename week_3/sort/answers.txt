@@ -1,0 +1,16 @@
+sort1 uses: bubble sort
+
+How do you know?:
+there are some differen between the reversed one and random one.
+bubble sortselection sort
+
+sort2 uses: merge sort
+
+How do you know?:
+the real time to operate on 50000 number list is the shrotest and is far less than other two program.
+
+
+sort3 uses: selection sort
+
+How do you know?:
+the real time to operate on 10000 random number is almost the same as the reversed one.
